@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "631656143951",
+    "project_id": "chatbox-fd262",
+    "storage_bucket": "chatbox-fd262.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631656143951:android:3dd63e2bb438b4e2871e3a",
+        "android_client_info": {
+          "package_name": "com.example.onlineusertictactoe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCG3TdqWfBaKa7FNgN7m3jibpQ3A7ypYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
